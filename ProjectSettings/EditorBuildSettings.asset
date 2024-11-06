@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/pruebaRV.unity
-    guid: 2cb3e6d4078275d4aade19a6e6c8b519
+    path: Assets/laberinto.unity
+    guid: 5db35a500246a9f44bae830040513f1d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 39a6860e967ad5a42a8d380865c117f8, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8d87619cbb8f44942989f8786b59a0b9, type: 2}
